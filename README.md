@@ -2,14 +2,14 @@
 CSC8639 - Dissertation Project - Context-Aware Load Forecasting - Adithyaa
 
 # INTRODUCTION
-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+------------------------------------------------------------------------------------------------------------------------------------------>
 
 This directory contains a Jupyter Notebook designed for load forecasting analysis using the UK DALE dataset. The notebook includes all necessary code for data preprocessing, analysis and model development. The dataset used for this project is not included in the repository. To execute the code, users must download the UK DALE dataset from the UKERC website [here](https://ukerc.rl.ac.uk/cgi-bin/dataDiscover.pl?Action=detail&dataid=7d78f943-f9fe-413b-af52-1816f9d968b0&STerm=UK-DALE&SScope=&GoAct=&AFull=4&AllFilters=&RandKey=&TotHead=TOTHEAD), and upload it to their Google Drive.
 
 The notebook is self-contained with step-by-step instructions to guide users through the process of linking their Google Drive, loading the dataset and running the analysis.
 
 # RECOMMENDED LIBRARIES:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+------------------------------------------------------------------------------------------------------------------------------------------>
 
 numpy: Provides support for large, multi-dimensional arrays and matrices along with a collection of mathematical functions to operate on these arrays.
 
@@ -32,6 +32,6 @@ tensorflow/keras: A deep learning library for building and training neural netwo
 yaml: Enables reading and writing YAML files often used for configuration settings.
 
 #TROUBLESHOOTING
-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+------------------------------------------------------------------------------------------------------------------------------------------>
 
 No Trouble shooting error found.
