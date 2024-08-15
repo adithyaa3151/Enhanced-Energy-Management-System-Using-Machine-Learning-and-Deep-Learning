@@ -31,7 +31,7 @@ tensorflow/keras: A deep learning library for building and training neural netwo
 
 yaml: Enables reading and writing YAML files often used for configuration settings.
 
-#TROUBLESHOOTING
+# TROUBLESHOOTING
 ------------------------------------------------------------------------------------------------------------------------------------------>
 
 No Trouble shooting error found.
