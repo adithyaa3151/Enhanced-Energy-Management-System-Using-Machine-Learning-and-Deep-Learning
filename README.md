@@ -1,5 +1,5 @@
-# CSC8639_Dissertation_Project_Adithyaa
-CSC8639 - Dissertation Project - Context-Aware Load Forecasting - Adithyaa
+# Enhanced Energy Management System Using Machine Learning
+Dissertation Project - Context-Aware Load Forecasting - Adithyaa
 
 # INTRODUCTION
 ------------------------------------------------------------------------------------------------------------------------------------------>
