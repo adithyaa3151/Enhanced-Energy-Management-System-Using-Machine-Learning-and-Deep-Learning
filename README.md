@@ -1,4 +1,4 @@
-# Enhanced Energy Management System Using Machine Learning
+# Enhanced Energy Management System Using Machine Learning and Deep Learning
 Dissertation Project - Context-Aware Load Forecasting - Adithyaa
 
 # INTRODUCTION
