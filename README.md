@@ -51,7 +51,7 @@ In the era of smart grids and smart homes, accurate load forecasting is essentia
 
 ## Dataset Details
 
-The UK Domestic Appliance-Level Electricity (DALE) dataset contains high-resolution energy consumption data from various household appliances. This dataset is instrumental in predicting power consumption and understanding appliance-level energy usage patterns.
+The UK Domestic Appliance-Level Electricity (UK-DALE) dataset contains high-resolution energy consumption data from various household appliances. This dataset is instrumental in predicting power consumption and understanding appliance-level energy usage patterns.
 
 ## Troubleshooting
 
