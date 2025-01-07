@@ -34,10 +34,8 @@ In the era of smart grids and smart homes, accurate load forecasting is essentia
 - seaborn: Builds on Matplotlib to provide a high-level interface for drawing attractive and informative statistical graphics.
 - scikit-learn (sklearn): A comprehensive machine learning library that provides tools for data preprocessing, model selection, training, evaluation, and various supervised and unsupervised learning algorithms. 
   It includes utilities for tasks such as data splitting, hyperparameter tuning and performance metrics.
-
-tensorflow/keras: A deep learning library for building and training neural networks, including models such as LSTM, GRU and convolutional neural networks.
-
-yaml: Enables reading and writing YAML files often used for configuration settings.
+- tensorflow/keras: A deep learning library for building and training neural networks, including models such as LSTM, GRU and convolutional neural networks.
+- yaml: Enables reading and writing YAML files often used for configuration settings.
 
 ## Workflow Highlights
 
