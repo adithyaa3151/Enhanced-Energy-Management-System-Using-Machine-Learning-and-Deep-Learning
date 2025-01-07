@@ -17,7 +17,7 @@ In the era of smart grids and smart homes, accurate load forecasting is essentia
 - **Incorporate contextual features** such as time of day, day of the week, and seasonality to improve model performance.
 - **Evaluate model performance** against traditional methods like Linear Regression and Random Forest.
 
-## 🎯 Key Goals
+## Key Goals
 
 - Predict individual appliance-level and aggregate household energy usage.
 - Optimize energy consumption in residential settings by improving forecast accuracy.
